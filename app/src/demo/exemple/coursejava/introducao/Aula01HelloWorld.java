@@ -1,5 +1,6 @@
-package demo.exemple.introducao;
-public class HelloWorld {
+package demo.exemple.coursejava.introducao;
+
+public class Aula01HelloWorld {
     /**
      * Isso é um comentário <b>javadoc</b>
      * @param args
